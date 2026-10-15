@@ -1,0 +1,40 @@
+[
+  {
+    "_id": {
+      "$oid": "6ad0e74c8933969627c98c10"
+    },
+    "emp_code": "EMP0001",
+    "date": "2026-10-15",
+    "status": "PRESENT",
+    "punch_in": {
+      "$date": "2026-10-15T14:46:36Z"
+    },
+    "punch_out": {
+      "$date": "2026-10-15T15:04:36Z"
+    },
+    "work_hours": 0.3,
+    "late_minutes": 646,
+    "overtime_minutes": 124,
+    "half_day": true,
+    "history": []
+  },
+  {
+    "_id": {
+      "$oid": "6ad0e74a8933969627c98c0f"
+    },
+    "emp_code": "EMP0001",
+    "date": "2026-10-15",
+    "status": "PRESENT",
+    "punch_in": {
+      "$date": "2026-10-15T14:46:34Z"
+    },
+    "punch_out": {
+      "$date": "2026-10-15T15:27:17Z"
+    },
+    "work_hours": 0.68,
+    "late_minutes": 646,
+    "overtime_minutes": 147,
+    "half_day": true,
+    "history": []
+  }
+]
