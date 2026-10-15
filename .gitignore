@@ -2,3 +2,11 @@
 __pycache__/
 venv/
 .DS_Store
+.env
+.venv/
+.venv-*/
+.venv312/
+.vscode/
+__pycache__/
+*.pyc
+attendance_backup.json
